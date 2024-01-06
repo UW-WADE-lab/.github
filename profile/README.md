@@ -1,12 +1,2 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Welcome to the W.A.D.E Lab GitHub site
+This site is a general location for tools and code used by the W.A.D.E. Lab, and mainly contains two types of repository: general lab tools (e.g. the Lab Guide, Code of Conduct, generalized pipelines for genome alignment or metabarcoding QAQC, etc.) and project-based repositories, each containing the code and metadata used to generate W.A.D.E. Lab publications.
